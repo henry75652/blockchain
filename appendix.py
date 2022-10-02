@@ -1,4 +1,32 @@
 
+def finish_time(appendix):
+
+    if("finish_time:" in appendix):
+        print("[appendix.finish_time]finish_time is in appendix")
+        appendix = appendix.split("\\")
+        for _ in appendix:
+            if("finish_time:" in _):
+                appendix = _.split("finish_time:")[1]
+                break
+        print("[appendix.finish_time]finish_time = ",appendix)
+        return appendix
+    else:
+        print("[appendix.finish_time]finish_time is not in appendix")
+
+def miner(appendix):
+
+    if("miner:" in appendix):
+        print("[appendix.miner]miner is in appendix")
+        appendix = appendix.split("\\")
+        for _ in appendix:
+            if("miner:" in _):
+                appendix = _.split("miner:")[1]
+                break
+        print("[appendix.miner]miner = ",appendix)
+        return appendix
+    else:
+        print("[appendix.miner]miner is not in appendix")
+
 def verification(appendix):
 
     if("verification:" in appendix):
@@ -13,7 +41,7 @@ def verification(appendix):
     else:
         print("[appendix.verification]verification is not in appendix")
 
-class go_fuck_yourself():
+class commitment_cal():
     def __init__(self,data = (0,0,0,0,0,0,0,0,0)):
         self.data = data
         #print("init data = ",self.data)
@@ -30,12 +58,12 @@ class go_fuck_yourself():
 
         return string
     
-    def go_fuck(self,string):
+    def sequence(self,string):
             #print("[go_fuck_yourself.go_fuck]======================")
             #print("[go_fuck_yourself.go_fuck]string:",string)
-            if("fuck:" in string):
+            if("commitment:" in string):
                 #print("fuck: is in string")
-                string = string.split("fuck:")
+                string = string.split("commitment:")
                 #print(string)
                 #print(string[1])    #[(9, 8, 7, 6, 5, 4, 3, 2, 1)(1, 2, 3, 4, 5, 6, 7, 8, 1)]
                 string = string[1].replace("[","").replace("]","")
@@ -64,6 +92,14 @@ class go_fuck_yourself():
                 pass
                 #print("fuck: is not in string")
             #print("[go_fuck_yourself.go_fuck]======================")
+            
+    def sequence_info(self,string):
+            string = string.replace("[","").replace("]","")
+            data = list()
+            string = string.split(",")
+            for _ in string:
+                data.append(int(_))
+            return data
 
 if __name__ == "__main__":
     print("this is program is not for running directly")
