@@ -1,0 +1,816 @@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665135693.7
+nonce:5093
+prev_hash:bbb6166452b05bbde8aa1c3fa382fcad084cfaa2f8307e867d39c85f40150ef3
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:1
+           .pos_mine:192.168.43.224 5000
+source:192.168.43.224 5000
+=============
+hash:0000738d9a29785cda650e5282df2c3ad5f3cf8b7bc13181938b997da0866271
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665135694.42
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:2
+timestamp:1665135708.97
+nonce:106592
+prev_hash:0000738d9a29785cda650e5282df2c3ad5f3cf8b7bc13181938b997da0866271
+information.data:test 20000001 port 5002
+           .pos_trust:[113, 100, 100, 100]
+           .pos:1
+           .pos_mine:192.168.43.224 5002
+source:192.168.43.224 5002
+=============
+hash:00002d430bd672e811f1085d40c587e8fd66de67dee83dbddd5261b64c9573a6
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time: 1665135713.64
+miner:192.168.43.224 5002
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:3
+timestamp:1665135717.84
+nonce:103693
+prev_hash:00002d430bd672e811f1085d40c587e8fd66de67dee83dbddd5261b64c9573a6
+information.data:test 20000002 port 5000
+           .pos_trust:[111, 100, 113, 100]
+           .pos:1
+           .pos_mine:192.168.43.224 5003
+source:192.168.43.224 5000
+=============
+hash:00004910b0275bac129560cb124537d97f798d07c0b6e2fc4f730f52cc1028cb
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time: 1665135723.04
+miner:192.168.43.224 5003
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:4
+timestamp:1665135750.63
+nonce:12089
+prev_hash:00004910b0275bac129560cb124537d97f798d07c0b6e2fc4f730f52cc1028cb
+information.data:test 20000001 port 5001
+           .pos_trust:[115, 100, 113, 111]
+           .pos:1
+           .pos_mine:192.168.43.224 5003
+source:192.168.43.224 5001
+=============
+hash:00005061723f2e4ab722c615d331262ca32fcd3bc0ea6796e4a8821924caab11
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time: 1665135752.22
+miner:192.168.43.224 5003
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:5
+timestamp:1665135760.57
+nonce:13666
+prev_hash:00005061723f2e4ab722c615d331262ca32fcd3bc0ea6796e4a8821924caab11
+information.data:test 20000001 port 5003
+           .pos_trust:[113, 100, 113, 122]
+           .pos:1
+           .pos_mine:192.168.43.224 5000
+source:192.168.43.224 5003
+=============
+hash:00001f82389e2bc0c776937a7f02adcb564514cc7e0a356d16a008d6cce29347
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665135761.95
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:6
+timestamp:1665135775.59
+nonce:87904
+prev_hash:00001f82389e2bc0c776937a7f02adcb564514cc7e0a356d16a008d6cce29347
+information.data:test 20000003 port 5000
+           .pos_trust:[124, 102, 113, 122]
+           .pos:1
+           .pos_mine:192.168.43.224 5001
+source:192.168.43.224 5000
+=============
+hash:0000388456d691d94211cdab26e5d62f23cff6ac8b02240dff6fc6acfa99e2dd
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time: 1665135779.67
+miner:192.168.43.224 5001
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665138166.54
+nonce:14079
+prev_hash:bbb6166452b05bbde8aa1c3fa382fcad084cfaa2f8307e867d39c85f40150ef3
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:1
+           .pos_mine:192.168.43.224 5000
+source:192.168.43.224 5000
+=============
+hash:000033ffdaf25fc653c43a8e79edf2881961f4d91d3dfeadf657dd64b56af216
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665138167.78
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:2
+timestamp:1665138172.83
+nonce:431791
+prev_hash:000033ffdaf25fc653c43a8e79edf2881961f4d91d3dfeadf657dd64b56af216
+information.data:test 20000001 port 5001
+           .pos_trust:[113, 100, 100, 100]
+           .pos:1
+           .pos_mine:192.168.43.224 5003
+source:192.168.43.224 5001
+=============
+hash:0000eccb5315c9e6ceccb6a1072b5f773c8f07a05d3510581e40e25070c753df
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time: 1665138191.04
+miner:192.168.43.224 5003
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:3
+timestamp:1665138195.84
+nonce:46967
+prev_hash:0000eccb5315c9e6ceccb6a1072b5f773c8f07a05d3510581e40e25070c753df
+information.data:test 20000001 port 5003
+           .pos_trust:[113, 100, 100, 111]
+           .pos:1
+           .pos_mine:192.168.43.224 5000
+source:192.168.43.224 5003
+=============
+hash:00001a1ac2e10d2c741258c4c4d8f420de036fd32014257f76476d85d39d7501
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665138198.95
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:4
+timestamp:1665138204.41
+nonce:14088
+prev_hash:00001a1ac2e10d2c741258c4c4d8f420de036fd32014257f76476d85d39d7501
+information.data:test 20000001 port 5002
+           .pos_trust:[124, 102, 100, 113]
+           .pos:1
+           .pos_mine:192.168.43.224 5002
+source:192.168.43.224 5002
+=============
+hash:0000fcae2369bc175dfedcc09f36d6632ccf7ffe105782e5e963c7f08caa8492
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time: 1665138205.55
+miner:192.168.43.224 5002
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:5
+timestamp:1665138211.2
+nonce:53287
+prev_hash:0000fcae2369bc175dfedcc09f36d6632ccf7ffe105782e5e963c7f08caa8492
+information.data:test 20000002 port 5000
+           .pos_trust:[122, 102, 113, 111]
+           .pos:1
+           .pos_mine:192.168.43.224 5003
+source:192.168.43.224 5000
+=============
+hash:0000173b3c01bc36c48b9e337162f870995b4c877c5977ca1f80078e29a083c5
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time: 1665138214.47
+miner:192.168.43.224 5003
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665138531.55
+nonce:5995
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:
+source:192.168.43.224 5000
+=============
+hash:0000f822362c251fed1c2424095be7506766b807285039a3d751c02770e295fe
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665138532.73
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665138891.54
+nonce:45177
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:
+source:192.168.43.224 5000
+=============
+hash:0000ec2a547693d491442d409355f7b7dd0f67a2286eebf6accf133d502eb9d7
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665138894.65
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665139004.81
+nonce:106637
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:
+source:192.168.43.224 5000
+=============
+hash:00003ef099eb24d7f5704eab96ee94c2288a0641120108e9df54536058739b60
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665139009.84
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665139608.23
+nonce:159065
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:
+source:192.168.43.224 5000
+=============
+hash:0000a81766dcf20a092669afdcbae9d27a5840ac257e632a4e5fc42192a8877e
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665139615.84
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:2
+timestamp:1665139638.96
+nonce:131136
+prev_hash:0000a81766dcf20a092669afdcbae9d27a5840ac257e632a4e5fc42192a8877e
+information.data:test 20000001 port 5001
+           .pos_trust:[65, 100, 100, 100]
+           .pos:0
+           .pos_mine:
+source:192.168.43.224 5001
+=============
+hash:000057b730ee8930c152a49bb1e86146468eafc87e77b4ebea0235933484dccd
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665139645.34
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665142760.37
+nonce:4566
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:
+source:192.168.43.224 5000
+=============
+hash:0000b1db312dc344c0a92e79b42ec82901da41ff60623a367a21919533f0f2cf
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665142761.38
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:2
+timestamp:1665142771.96
+nonce:4203
+prev_hash:0000b1db312dc344c0a92e79b42ec82901da41ff60623a367a21919533f0f2cf
+information.data:test 20000001 port 5001
+           .pos_trust:[65, 100, 100, 100]
+           .pos:0
+           .pos_mine:
+source:192.168.43.224 5001
+=============
+hash:00002e4b193b3155368bef98911ac1d1570a8e9e610eba79ac8661e051079d03
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665142773.53
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665142846.44
+nonce:37300
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5001
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:
+source:192.168.43.224 5001
+=============
+hash:0000c0505a91763b30b8b72b02ca426c10d8faa8d327bb94f352cd607bb03203
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665142849.12
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665143045.69
+nonce:23964
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:
+source:192.168.43.224 5000
+=============
+hash:00009a9ee401bc2053cf6d124e2428125a1234ef0ae30daa75c58127f94c4848
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665143047.6
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:2
+timestamp:1665143051.11
+nonce:14515
+prev_hash:00009a9ee401bc2053cf6d124e2428125a1234ef0ae30daa75c58127f94c4848
+information.data:test 20000001 port 5001
+           .pos_trust:[65, 100, 100, 100]
+           .pos:0
+           .pos_mine:
+source:192.168.43.224 5001
+=============
+hash:0000d6cc6e4e2ab9cd9b7dddd7bba2285796fb82767e1d9edcfaac1a8f9bf777
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665143052.64
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665143141.46
+nonce:11886
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5001
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:
+source:192.168.43.224 5001
+=============
+hash:00002dca1a42b23cc254992853a68122707129692f302de38a8c55fb8f8748db
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665143143.0
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665143237.93
+nonce:99792
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5001
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:192.168.43.224 5001
+=============
+hash:0000a6e14e453d22fdab9aec6fc6149842422174937e0ac5310c2bb842c069d7
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665143243.42
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665143480.49
+nonce:87362
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5001
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:192.168.43.224 5001
+=============
+hash:0000175e98692dff79472830433fdfc258c3dacf8a48c867dfb8872092184c75
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665143485.32
+miner:192.168.43.224 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665541718.2
+nonce:82613
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:127.0.0.1 5000
+=============
+hash:00000d7636f83c4bb1ab2aead182f7c2727921cd2a6517c08f7693849e737412
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665541721.23
+miner:127.0.0.1 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:2
+timestamp:1665541808.9
+nonce:83675
+prev_hash:00000d7636f83c4bb1ab2aead182f7c2727921cd2a6517c08f7693849e737412
+information.data:test 20000001 port 5001
+           .pos_trust:[65, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:127.0.0.1 5001
+=============
+hash:000009c86dc8e41d7ed3580d2895672ac0920a0bccfabc77ddf7a475b05b75c4
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665541812.69
+miner:127.0.0.1 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665541942.11
+nonce:36964
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:127.0.0.1 5000
+=============
+hash:00005616f7bece015fffe40c0ceab60e6b2bce4aa24b8d89b076b73756871a06
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665541943.84
+miner:127.0.0.1 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665594366.81
+nonce:73431
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5000
+=============
+hash:0000d1052a1206cc4660cd1d08a11cb0f5c30138f76e8da9d65eb12e47fe39a5
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665594369.4
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665595137.18
+nonce:91076
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5000
+=============
+hash:000013c2a21cc12de5d4b48451517a48c6e76ff363a8475f3dfaceb0b82684e9
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665595140.24
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665626857.14
+nonce:17506
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5000
+=============
+hash:0000e461200a2c4f1f83e21e319c78358e4882ce1aa48aa4bd409680f5875b9f
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665626858.6
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:2
+timestamp:1665626870.24
+nonce:172818
+prev_hash:0000e461200a2c4f1f83e21e319c78358e4882ce1aa48aa4bd409680f5875b9f
+information.data:test 20000001 port 5001
+           .pos_trust:[65, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5001
+=============
+hash:00000798c20659e729fee68a0781b14ad227c434fb1f9b2b4527eb2f5bca7293
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665626875.86
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665627076.65
+nonce:61521
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5000
+=============
+hash:0000a4080f6039b68db8900a70bad33f0dbf945a3d0520ad89845cbb304b2bb1
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665627078.89
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:2
+timestamp:1665627085.84
+nonce:83980
+prev_hash:0000a4080f6039b68db8900a70bad33f0dbf945a3d0520ad89845cbb304b2bb1
+information.data:test 20000001 port 5001
+           .pos_trust:[65, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5001
+=============
+hash:0000f0059675a5e18979a3167ad13f288c11e502b8a8b535510bae85ded85935
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665627089.34
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:3
+timestamp:1665627257.25
+nonce:42543
+prev_hash:0000f0059675a5e18979a3167ad13f288c11e502b8a8b535510bae85ded85935
+information.data:test 20000001 port 5002
+           .pos_trust:[66, 77, 111, 101]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5002
+=============
+hash:00006b2a72c5aefd6c880c7660a8a125e66c49eb52171158ac1c95914675f4f1
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665627259.55
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:4
+timestamp:1665627274.23
+nonce:35530
+prev_hash:00006b2a72c5aefd6c880c7660a8a125e66c49eb52171158ac1c95914675f4f1
+information.data:test 20000001 port 5003
+           .pos_trust:[67, 78, 78, 122]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5003
+=============
+hash:0000fe801c3ad44ff51a0a15a6d57423f82fb6558aa6c6bd57d31c7d1a7fbce7
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665627276.61
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665627763.89
+nonce:12802
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5001
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5001
+=============
+hash:0000d3489c5c82b8b69cffe3f6e8ac1185af32e5c3854bd76beb81012f229015
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665627765.51
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665627815.78
+nonce:55625
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5001
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5001
+=============
+hash:000079346b77db918cbbccab550c7d06d0c0cf26a2aead09d4d714fe2b977254
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665627818.87
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665628092.96
+nonce:23718
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5001
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5001
+=============
+hash:00002d4b65a6b992bf78685872941f8b4670ed8eb99bfef0f581fea8c2637094
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665628094.81
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665629572.24
+nonce:39355
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5000
+=============
+hash:0000dd8d077cfa855cca14a89a994f6821c2063a0a4a7a8f89a399689381a4c0
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665629574.02
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665629634.3
+nonce:75095
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5000
+=============
+hash:0000be00a1eb17bb774db3aeaeb3d801bf69ab9549b36aee84c6c1175b458c68
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665629637.0
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665629705.04
+nonce:127314
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5001
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5001
+=============
+hash:00004e8c7774a2f42f1eddc96b477b10bbc1d8ef43e050ece1fc1106db9c02f8
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665629710.11
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:3
+timestamp:1665629784.04
+nonce:22036
+prev_hash:00002883aba72b2670761d1413773d8315985ecc5c387b6468c8a4d91c835a9a
+information.data:test 20000003 port 5001
+           .pos_trust:[100, 122, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5001
+=============
+hash:0000d68b6bc91a3beaf03074c82d4c3394e7382eccc79498625478b86d5462f3
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665629785.58
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:3
+timestamp:1665629784.04
+nonce:22036
+prev_hash:00002883aba72b2670761d1413773d8315985ecc5c387b6468c8a4d91c835a9a
+information.data:test 20000003 port 5001
+           .pos_trust:[100, 122, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5001
+=============
+hash:0000d68b6bc91a3beaf03074c82d4c3394e7382eccc79498625478b86d5462f3
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time: 1665629784.7
+miner:172.30.2.113 5001
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665630040.13
+nonce:8975
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5001
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5001
+=============
+hash:00003d239a3306334c2ad323111b20e4ec0c502174aa39f925497b6887d8a621
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665630041.94
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665630849.07
+nonce:7501
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5000
+=============
+hash:0000ab9d41d99fe1ad8d7094ffc3f33010ce0f92c0d56dca9fafcdeaeb4f5864
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665630849.96
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:1
+timestamp:1665631268.61
+nonce:52168
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5000
+=============
+hash:0000eaf559d9f2bc1b18d2f1753258f8040a862db1fd95a69cd6ce11f445ad34
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665631270.58
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:2
+timestamp:1665631274.59
+nonce:48752
+prev_hash:0000eaf559d9f2bc1b18d2f1753258f8040a862db1fd95a69cd6ce11f445ad34
+information.data:test 20000001 port 5001
+           .pos_trust:[65, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5001
+=============
+hash:0000b04a62a3d2ed36d685de5f32732e5df216658ae5b2828d4d600afa9d7172
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665631277.1
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+====block====debug:write_log port:5000
+id:3
+timestamp:1665631289.79
+nonce:1732
+prev_hash:0000b04a62a3d2ed36d685de5f32732e5df216658ae5b2828d4d600afa9d7172
+information.data:test 20000001 port 5002
+           .pos_trust:[48, 113, 111, 113]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5002
+=============
+hash:0000a37bf6e01713815a399cc078fb1d76a1eb1f9c4fb1094439d5a0ebcaefc1
+=============
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+finish_time:1665631291.25
+miner:172.30.2.113 5000
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@

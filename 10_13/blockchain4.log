@@ -1,0 +1,39 @@
+====block====debug:write_log port:5003
+id:0
+timestamp:0.0
+nonce:0
+prev_hash:0
+information.data:this is genesis block
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:0.0.0.0 0
+=============
+hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+=============
+====block====debug:write_log port:5003
+id:1
+timestamp:1665627085.84
+nonce:83980
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5001
+           .pos_trust:[65, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5001
+=============
+hash:0000f0059675a5e18979a3167ad13f288c11e502b8a8b535510bae85ded85935
+=============
+====block====debug:write_log port:5003
+id:2
+timestamp:1665627257.25
+nonce:42543
+prev_hash:0000f0059675a5e18979a3167ad13f288c11e502b8a8b535510bae85ded85935
+information.data:test 20000001 port 5002
+           .pos_trust:[66, 77, 111, 101]
+           .pos:0
+           .pos_mine:random
+source:172.30.2.113 5002
+=============
+hash:00006b2a72c5aefd6c880c7660a8a125e66c49eb52171158ac1c95914675f4f1
+=============
