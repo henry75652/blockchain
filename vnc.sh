@@ -1,12 +1,8 @@
 sudo apt update
-sudo apt-get install python-pip 
-pip install pycryptodome
-pip install cryto
-sudo pip install ecdsa
-echo 'export PATH=/home/ideiowo/.local/bin:$PATH' >>~/.bashrc~
-source ~/.bashrc
-export PATH=$PATH:/home/ideiowo/.local/bin
-source $HOME/.bashrc
+sudo apt-get install python3-pip 
+python3 -m pip install pycryptodome
+python3 - pip install cryto
+python3 - pip install ecdsa
 sudo apt install vino
 sudo apt autoremove
 mkdir -p ~/.config/autostart
