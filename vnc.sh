@@ -1,8 +1,8 @@
 sudo apt update
 sudo apt-get install python3-pip 
 python3 -m pip install pycryptodome
-python3 - pip install cryto
-python3 - pip install ecdsa
+python3 -m pip install crypto
+python3 -m pip install ecdsa
 sudo apt install vino
 sudo apt autoremove
 mkdir -p ~/.config/autostart
