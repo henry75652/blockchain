@@ -1,0 +1,15 @@
+====block====debug:write_log port:5004
+id:1
+timestamp:1664209805.88
+nonce:26522
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.7.34 5000
+=============
+hash:0000569139bad57ea8e9f5644a7b08d0e9e4a02c4135b946f4458079041099aa
+=============
+==============================================================
+finish_time:1664209811.23
