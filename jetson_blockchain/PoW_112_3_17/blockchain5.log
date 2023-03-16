@@ -1,0 +1,10 @@
+====block====debug:write_log port:5004
+id:0
+timestamp:0.0
+nonce:0
+prev_hash:0
+information.data:this is genesis block
+source:0.0.0.0:0
+=============
+hash:a2adb46910e95f3192a57c8c08b98c8dd177fa2e450ac7a17291754c6cee854d
+=============

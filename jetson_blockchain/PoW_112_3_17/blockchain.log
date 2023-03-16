@@ -1,0 +1,260 @@
+====block====debug:write_log port:5000
+id:0
+timestamp:0.0
+nonce:0
+prev_hash:0
+information.data:this is genesis block
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:0.0.0.0 0
+=============
+hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+=============
+====block====debug:write_log port:5000
+id:1
+timestamp:1678983255.16
+nonce:1683351472
+prev_hash:4baaba3afd53df57f032fd77af7886609df1ef4ebfe99f448d48d357140f8daf
+information.data:test 20000001 port 5000
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5000
+=============
+hash:00000ceec3568942a65306ff49092b450568d1bf1f349d247a8b0d0f5ad3fd58
+=============
+====block====debug:write_log port:5000
+id:2
+timestamp:1678983257.86
+nonce:3202945763
+prev_hash:00000ceec3568942a65306ff49092b450568d1bf1f349d247a8b0d0f5ad3fd58
+information.data:test 20000001 port 5001
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5001
+=============
+hash:00000960ade1ebbc55c10948d93f78eac4d159d9445538917d0392d54b06f32e
+=============
+====block====debug:write_log port:5000
+id:3
+timestamp:1678983261.77
+nonce:3772706818
+prev_hash:00000960ade1ebbc55c10948d93f78eac4d159d9445538917d0392d54b06f32e
+information.data:test 20000001 port 5002
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5002
+=============
+hash:00000862560ca3e3800393e86b1f08a6fafb90c68c55204cc9c5a296bb2de827
+=============
+====block====debug:write_log port:5000
+id:4
+timestamp:1678983266.28
+nonce:1380022867
+prev_hash:00000862560ca3e3800393e86b1f08a6fafb90c68c55204cc9c5a296bb2de827
+information.data:test 20000002 port 5000
+           .pos_trust:[111, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5000
+=============
+hash:0000090e7061a56717c0730f640fdcc24424f6c77328e52cc9a65cfef690cd3c
+=============
+====block====debug:write_log port:5000
+id:5
+timestamp:1678983271.22
+nonce:2030928148
+prev_hash:0000090e7061a56717c0730f640fdcc24424f6c77328e52cc9a65cfef690cd3c
+information.data:test 20000001 port 5003
+           .pos_trust:[113, 100, 100, 111]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5003
+=============
+hash:000004859e33bc88965f06e7db3c8f385ca5b97c7df91da619fc3e3a9dea9718
+=============
+====block====debug:write_log port:5000
+id:6
+timestamp:1678983272.0
+nonce:2827029596
+prev_hash:000004859e33bc88965f06e7db3c8f385ca5b97c7df91da619fc3e3a9dea9718
+information.data:test 20000002 port 5001
+           .pos_trust:[113, 111, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5001
+=============
+hash:00000d903c7bcb65f3048e87f5e1512851d4341ac176f5c227c21e2084a33dee
+=============
+====block====debug:write_log port:5000
+id:7
+timestamp:1678983277.63
+nonce:176454814
+prev_hash:00000d903c7bcb65f3048e87f5e1512851d4341ac176f5c227c21e2084a33dee
+information.data:test 20000003 port 5000
+           .pos_trust:[124, 100, 100, 111]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5000
+=============
+hash:0000045fd405bc99ae8129f0f5b462a0a4209b1b48d87df126103e755ec3d307
+=============
+====block====debug:write_log port:5000
+id:8
+timestamp:1678983279.47
+nonce:3154865172
+prev_hash:0000045fd405bc99ae8129f0f5b462a0a4209b1b48d87df126103e755ec3d307
+information.data:test 20000002 port 5002
+           .pos_trust:[115, 100, 122, 111]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5002
+=============
+hash:000000127acdc4baff2eadf80cc1900df93bfb59a41f5b1d3f2b49a90bc3b277
+=============
+====block====debug:write_log port:5000
+id:9
+timestamp:1678983285.88
+nonce:675683392
+prev_hash:000000127acdc4baff2eadf80cc1900df93bfb59a41f5b1d3f2b49a90bc3b277
+information.data:test 20000003 port 5001
+           .pos_trust:[115, 122, 100, 111]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5001
+=============
+hash:0000029f995d9f2dc638d2257a60bbee1ea5820006aa73fbcbac801627d09994
+=============
+====block====debug:write_log port:5000
+id:10
+timestamp:1678983289.42
+nonce:2043426334
+prev_hash:0000029f995d9f2dc638d2257a60bbee1ea5820006aa73fbcbac801627d09994
+information.data:test 20000004 port 5000
+           .pos_trust:[137, 111, 100, 111]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5000
+=============
+hash:00000022b43c2d3e798e587ae67f544e2c57d6ec27850a2de2fd82d65ca59ee9
+=============
+====block====debug:write_log port:5000
+id:11
+timestamp:1678983296.33
+nonce:1497717546
+prev_hash:00000022b43c2d3e798e587ae67f544e2c57d6ec27850a2de2fd82d65ca59ee9
+information.data:test 20000002 port 5003
+           .pos_trust:[130, 111, 111, 155]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5003
+=============
+hash:00000772a78044eef8228667f838d0bbabc475de527913c3ee75d42e6dbdabd0
+=============
+====block====debug:write_log port:5000
+id:12
+timestamp:1678983297.23
+nonce:1269910785
+prev_hash:00000772a78044eef8228667f838d0bbabc475de527913c3ee75d42e6dbdabd0
+information.data:test 20000003 port 5002
+           .pos_trust:[132, 111, 177, 122]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5002
+=============
+hash:0000058bbec27a4a3abd2d02a3378572e96a03ebd73ceef883a5576f881076cf
+=============
+====block====debug:write_log port:5000
+id:13
+timestamp:1678983300.72
+nonce:3949177538
+prev_hash:0000058bbec27a4a3abd2d02a3378572e96a03ebd73ceef883a5576f881076cf
+information.data:test 20000004 port 5001
+           .pos_trust:[136, 177, 133, 122]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5001
+=============
+hash:00000c5967bfbe127a4fc9ac8251d484dea454cfca0f32cbd88242eac46b1f65
+=============
+====block====debug:write_log port:5000
+id:14
+timestamp:1678983302.92
+nonce:3717766917
+prev_hash:00000c5967bfbe127a4fc9ac8251d484dea454cfca0f32cbd88242eac46b1f65
+information.data:test 20000005 port 5000
+           .pos_trust:[189, 111, 134, 122]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5000
+=============
+hash:0000090ab4ad73caf53ab98bc45af05351b75d367ae17f3f729f81a720890beb
+=============
+====block====debug:write_log port:5000
+id:15
+timestamp:1678983315.47
+nonce:1483766173
+prev_hash:0000090ab4ad73caf53ab98bc45af05351b75d367ae17f3f729f81a720890beb
+information.data:test 20000006 port 5000
+           .pos_trust:[226, 122, 144, 122]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5000
+=============
+hash:00000b041c12ce444a7caee1d1108e51c220afbf3848792f0a2c7d6454defea7
+=============
+====block====debug:write_log port:5000
+id:16
+timestamp:1678983315.8
+nonce:2423021622
+prev_hash:00000b041c12ce444a7caee1d1108e51c220afbf3848792f0a2c7d6454defea7
+information.data:test 20000004 port 5002
+           .pos_trust:[173, 122, 199, 122]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5002
+=============
+hash:00000f955cb3103a54c29eb89231a41afefc7257bacc4f4a03dfc6e15fb3be79
+=============
+====block====debug:write_log port:5000
+id:17
+timestamp:1678983315.22
+nonce:3884694596
+prev_hash:00000f955cb3103a54c29eb89231a41afefc7257bacc4f4a03dfc6e15fb3be79
+information.data:test 20000005 port 5001
+           .pos_trust:[177, 199, 144, 122]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5001
+=============
+hash:0000003746ca232947de4f86e7ee38050d6ff743ec89794b60bb4d6bdd55f711
+=============
+====block====debug:write_log port:5000
+id:18
+timestamp:1678983320.25
+nonce:4080380025
+prev_hash:0000003746ca232947de4f86e7ee38050d6ff743ec89794b60bb4d6bdd55f711
+information.data:test 20000003 port 5003
+           .pos_trust:[179, 122, 155, 166]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5003
+=============
+hash:00000df387fca2d155acaabdc4b6e8ccb53b31980178e14a0807a64accdc21c2
+=============
+====block====debug:write_log port:5000
+id:19
+timestamp:1678983328.39
+nonce:2195808895
+prev_hash:00000df387fca2d155acaabdc4b6e8ccb53b31980178e14a0807a64accdc21c2
+information.data:test 20000007 port 5000
+           .pos_trust:[228, 122, 155, 122]
+           .pos:0
+           .pos_mine:random
+source:172.30.1.28 5000
+=============
+hash:00000e9637102524999cb3f64f22d8d9922fa5669336fc2d9eda6166a11befa7
+=============
