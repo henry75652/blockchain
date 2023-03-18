@@ -1,0 +1,13 @@
+====block====debug:write_log port:5004
+id:0
+timestamp:0.0
+nonce:1
+prev_hash:0
+information.data:1
+           .pos_trust:[100, 100, 100, 100]
+           .pos:0
+           .pos_mine:random
+source:0.0.0.0 0
+=============
+hash:ed21df438fe83b98339b9c1887eeb65fe4543bfb9ff1502b4a86f6e43a404ab4
+=============
