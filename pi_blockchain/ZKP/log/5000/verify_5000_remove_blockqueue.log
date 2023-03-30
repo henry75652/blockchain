@@ -1,0 +1,10 @@
+====block====debug:remove_blockqueue
+id:0
+timestamp:1680006653.07
+nonce:1
+prev_hash:0
+information.data:test 20000001 port 5001
+source:192.168.0.102 5001
+=============
+hash:80a7ea723a00b824cf9117f7d1455a50fb5b52952701f247ccec963ca0327386
+=============
