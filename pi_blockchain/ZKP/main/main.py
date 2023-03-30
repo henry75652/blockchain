@@ -392,7 +392,7 @@ if __name__ == "__main__":
 
     while STOP == False:
         
-        if(node.server_port != 5003 or False): msg = "new block"   #阻塞
+        if(node.server_port != 5004 or False): msg = "new block"   #阻塞
         else:
             msg = "tesdfsefsasdf"
             time.sleep(0.5)
@@ -419,9 +419,9 @@ if __name__ == "__main__":
             elif (str(node.server_ip)+" "+str(node.server_port)) == node.node_list[2]:
                 time.sleep(17)
                 block = new_block(True)
-            #elif (str(node.server_ip)+" "+str(node.server_port)) == node.node_list[3]:
-                #time.sleep(23)
-                #block = new_block(True)
+            elif (str(node.server_ip)+" "+str(node.server_port)) == node.node_list[3]:
+                time.sleep(23)
+                block = new_block(True)
             else:
                 pass
         elif msg == "show serverlist":
