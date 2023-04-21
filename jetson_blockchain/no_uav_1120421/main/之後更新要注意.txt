@@ -1,0 +1,3 @@
+AES_en.py 路近改keys.txt
+檔案較blockchain
+blockchain.py的write路徑都改'/'

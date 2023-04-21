@@ -1,0 +1,15 @@
+#!usr/bin/python
+
+# non_blocking_client.py
+
+import socket
+
+sock = socket.socket()
+
+host = socket.gethostname()
+sock.connect((host, 12345))
+sock.setblocking(0)			# Now setting to non-blocking mode
+
+while 1:			
+    data = input()	# Huge amount of data to be sent
+    assert sock.send(data.encode("utf-8"))			        # Send data till true

@@ -1,0 +1,20 @@
+====block====debug:remove_blockqueue
+id:0
+timestamp:1682007626.67
+nonce:1
+prev_hash:0
+information.data:test 20000001 port 5000
+source:140.132.105.52 5000
+=============
+hash:589012b3c21bcfc6da033f6457b423b5585ddc8574fb0db86b48cbc2ab96dd2c
+=============
+====block====debug:remove_blockqueue
+id:0
+timestamp:1682007631.87
+nonce:1
+prev_hash:0
+information.data:test 20000002 port 5000
+source:140.132.105.52 5000
+=============
+hash:f78773cc4de131a9a0a7f34af70a9b26e5509aba5d606c5f02447b175345b644
+=============
