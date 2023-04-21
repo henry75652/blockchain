@@ -1,0 +1,12 @@
+        self.id = int(0)
+        self.timestamp = float()
+        self.nonce = int(0)
+        self.prev_hash = '0'
+        self.information = Information(information)
+        self.source = server_ip_port
+        # id\timestamp\nonce\prev_hash\information\source
+
+block//56\Mon Feb 21 14:29:13 2022\177\00079bcd42436498efda60b225436ec25c8db797be85775b0271bbba4a776ddf\Hello\0.0.0.0
+update//56\Mon Feb 21 14:29:13 2022\177\00079bcd42436498efda60b225436ec25c8db797be85775b0271bbba4a776ddf\Hello\0.0.0.0
+
+update//1\1657159991.26\3940752421\a2adb46910e95f3192a57c8c08b98c8dd177fa2e450ac7a17291754c6cee854d\test 0 port 5000\172.20.10.5:5000//appendix//miner:this is mined by node 5000 172.20.10.5\fuck:[(9, 8, 7, 6, 5, 4, 3, 2, 1)(1, 2, 3, 4, 5, 6, 7, 8, 1)]

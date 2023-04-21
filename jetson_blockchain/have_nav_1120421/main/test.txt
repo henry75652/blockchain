@@ -1,0 +1,45 @@
+time:20:40:25,lat:23.333,lon:121.3333,vol:15.22,amp:77.2,per:78
+time:20:40:25,lat:23.333,lon:121.3333,vol:15.22,amp:77.2,per:74
+
+xde5610@ubuntu:~/Desktop/server/ejs_pratice-master$ sudo mysql -u root -p
+[sudo] password for xde5610: 
+Enter password: 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+xde5610@ubuntu:~/Desktop/server/ejs_pratice-master$ sudo mysql -u root -p
+Enter password: 
+Welcome to the MariaDB monitor.  Commands end with ; or \g.
+Your MariaDB connection id is 165
+Server version: 10.3.38-MariaDB-0ubuntu0.20.04.1 Ubuntu 20.04
+
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+MariaDB [(none)]> select * from project.drone_info;
++------+---------------+------+------+-------------+--------+-----------+
+| id   | ip            | port | name | description | status | isolating |
++------+---------------+------+------+-------------+--------+-----------+
+|    1 | 192.168.0.100 | 5000 | test |             |      0 | NULL      |
+|    2 | 192.168.0.100 | 5001 | test |             |      0 | NULL      |
+|    3 | 192.168.0.100 | 5002 | test |             |      0 | NULL      |
+|    4 | 192.168.0.100 | 5003 | test |             |      0 | NULL      |
++------+---------------+------+------+-------------+--------+-----------+
+4 rows in set (0.001 sec)
+
+MariaDB [(none)]> update project.drone_info set ip="192.168.185.47";
+Query OK, 4 rows affected (0.003 sec)
+Rows matched: 4  Changed: 4  Warnings: 0
+
+MariaDB [(none)]> select * from project.drone_info;
++------+----------------+------+------+-------------+--------+-----------+
+| id   | ip             | port | name | description | status | isolating |
++------+----------------+------+------+-------------+--------+-----------+
+|    1 | 192.168.185.47 | 5000 | test |             |      0 | NULL      |
+|    2 | 192.168.185.47 | 5001 | test |             |      0 | NULL      |
+|    3 | 192.168.185.47 | 5002 | test |             |      0 | NULL      |
+|    4 | 192.168.185.47 | 5003 | test |             |      0 | NULL      |
++------+----------------+------+------+-------------+--------+-----------+
+4 rows in set (0.000 sec)
+
+MariaDB [(none)]> exit
+Bye
